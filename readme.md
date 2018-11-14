@@ -1,0 +1,1 @@
+Program reads data from file and count unique words.
